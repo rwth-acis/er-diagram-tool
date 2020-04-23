@@ -60,8 +60,14 @@ class StaticApp extends PolymerElement {
         }
         .maincontainer { 
             display: flex;
-            height: 600px;
+            height: 800px;
             flex-flow: row wrap;
+        }
+        .activitycontainer { 
+          display: flex;
+          height: 400px;
+          width: 400px;
+          flex-flow: row wrap;
         }
         .innercontainer {
             padding: 5px;
@@ -69,12 +75,12 @@ class StaticApp extends PolymerElement {
             flex: 1;
         }
         .innercontainer:nth-of-type(1) {
-            flex: 4;
+            flex: 6;
             display: flex;
             flex-flow: column;
         }
         .innercontainer:nth-of-type(2) {
-            flex: 2;
+            flex: 1;
             display: flex;
             flex-flow: column;
         }
@@ -104,16 +110,13 @@ class StaticApp extends PolymerElement {
           <iframe id="Canvas" src="{WEBHOST}/syncmeta/widget.html"> </iframe>
         </div>
         <div class="innercontainer">
-          <iframe id="Property Browser" src="{WEBHOST}/syncmeta/attribute.html"> </iframe>
-          <iframe id="Import Tool" src="{WEBHOST}/syncmeta/debug.html"> </iframe>
-        </div>
-        <div class="innercontainer">
           <iframe id="Palette" src="{WEBHOST}/syncmeta/palette.html"> </iframe>
+          <iframe id="Property Browser" src="{WEBHOST}/syncmeta/attribute.html"> </iframe>
         </div>
-        <div class="innercontainer">
-          <iframe id="User Activity" src="{WEBHOST}/syncmeta/activity.html"> </iframe>
-        </div>
-      </div>    
+      </div>  
+      <div class="activitycontainer">
+        <iframe id="User Activity" src="{WEBHOST}/syncmeta/activity.html"> </iframe>
+      </div>  
     `;
   }
 
@@ -165,7 +168,12 @@ class StaticApp extends PolymerElement {
       return;
     } else {
       Common.setYjsRoomName("Default");
-      location.reload();
+      ModelOps.uploadMetaModel()
+        .then(_ => new Promise((resolve, reject) => {
+          // wait for data become active
+          setTimeout(_ => resolve(), 2000);
+        }))
+        .then(_ => location.reload());
     }
   }
 

@@ -209,10 +209,10 @@ export default {
             "shape": {
                 "arrow": "bidirassociation",
                 "shape": "straight",
-                "color": "black",
+                "color": "#8abbe6",
                 "overlay": "",
-                "overlayPosition": "top",
-                "overlayRotate": true
+                "overlayPosition": "hidden",
+                "overlayRotate": false
             },
             "relations": [
                 {

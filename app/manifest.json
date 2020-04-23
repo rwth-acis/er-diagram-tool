@@ -1,0 +1,7 @@
+{
+  "name": "ERDiagramTool",
+  "short_name": "ERDiagramTool",
+  "description": "ER Diagram Tool",
+  "start_url": "/",
+  "display": "standalone"
+}

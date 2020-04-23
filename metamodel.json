@@ -1,0 +1,2188 @@
+{
+    "attributes": {
+        "label": {
+            "id": "modelAttributes[label]",
+            "name": "Label",
+            "value": {
+                "id": "modelAttributes[label]",
+                "name": "Label",
+                "value": "Model Attributes"
+            }
+        },
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0,
+        "zIndex": 0,
+        "type": "ModelAttributesNode",
+        "attributes": {
+            "modelAttributes[name]": {
+                "id": "modelAttributes[name]",
+                "name": "Name",
+                "value": {
+                    "id": "modelAttributes[name]",
+                    "name": "Name",
+                    "value": ""
+                }
+            },
+            "modelAttributes[description]": {
+                "id": "modelAttributes[description]",
+                "name": "Description",
+                "value": {
+                    "id": "modelAttributes[description]",
+                    "name": "Description",
+                    "value": ""
+                }
+            }
+        }
+    },
+    "nodes": {
+        "725c6cd472a277b8a0e0ada0": {
+            "label": {
+                "id": "725c6cd472a277b8a0e0ada0[label]",
+                "name": "Label",
+                "value": {
+                    "id": "725c6cd472a277b8a0e0ada0[label]",
+                    "name": "Label",
+                    "value": "Entity"
+                }
+            },
+            "left": 3857.5,
+            "top": 4225,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16001,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "22089da21fd1db331547e838": {
+                            "id": "22089da21fd1db331547e838",
+                            "name": "22089da21fd1db331547e838",
+                            "key": {
+                                "id": "22089da21fd1db331547e838[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "22089da21fd1db331547e838[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1c67132afa49354dfe3eb26e": {
+            "label": {
+                "id": "1c67132afa49354dfe3eb26e[label]",
+                "name": "Label",
+                "value": {
+                    "id": "1c67132afa49354dfe3eb26e[label]",
+                    "name": "Label",
+                    "value": "Entity Shape"
+                }
+            },
+            "left": 3607.5,
+            "top": 4400,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16002,
+            "type": "Node Shape",
+            "attributes": {
+                "1c67132afa49354dfe3eb26e[shape]": {
+                    "id": "1c67132afa49354dfe3eb26e[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[shape]",
+                        "name": "Shape",
+                        "value": "rectangle"
+                    },
+                    "option": "Rectangle"
+                },
+                "1c67132afa49354dfe3eb26e[color]": {
+                    "id": "1c67132afa49354dfe3eb26e[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "1c67132afa49354dfe3eb26e[defaultWidth]": {
+                    "id": "1c67132afa49354dfe3eb26e[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "1c67132afa49354dfe3eb26e[defaultHeight]": {
+                    "id": "1c67132afa49354dfe3eb26e[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 50
+                    }
+                },
+                "1c67132afa49354dfe3eb26e[customShape]": {
+                    "id": "1c67132afa49354dfe3eb26e[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#cfe2f3\" d=\"m2.1732283 1.2283465l195.65353 0l0 118.77165l-195.65353 0z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m2.1732283 1.2283465l195.65353 0l0 118.77165l-195.65353 0z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>"
+                    }
+                },
+                "1c67132afa49354dfe3eb26e[customAnchors]": {
+                    "id": "1c67132afa49354dfe3eb26e[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "1c67132afa49354dfe3eb26e[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "5c3a10bd1fe4e78f3ce8bdb1": {
+            "label": {
+                "id": "5c3a10bd1fe4e78f3ce8bdb1[label]",
+                "name": "Label",
+                "value": {
+                    "id": "5c3a10bd1fe4e78f3ce8bdb1[label]",
+                    "name": "Label",
+                    "value": "NonKeyAttribute"
+                }
+            },
+            "left": 3727.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16005,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "e9bfe19dfc4cefff4bd90774": {
+                            "id": "e9bfe19dfc4cefff4bd90774",
+                            "name": "e9bfe19dfc4cefff4bd90774",
+                            "key": {
+                                "id": "e9bfe19dfc4cefff4bd90774[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "e9bfe19dfc4cefff4bd90774[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "359687e3aa65c290d3ff2c35": {
+            "label": {
+                "id": "359687e3aa65c290d3ff2c35[label]",
+                "name": "Label",
+                "value": {
+                    "id": "359687e3aa65c290d3ff2c35[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 3807.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16006,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "b7827b7430f0345901702c9a": {
+            "label": {
+                "id": "b7827b7430f0345901702c9a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "b7827b7430f0345901702c9a[label]",
+                    "name": "Label",
+                    "value": "Entity to Attribute"
+                }
+            },
+            "left": 4007.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16007,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {}
+                }
+            }
+        },
+        "2a012f1e2d17e198ef31c99c": {
+            "label": {
+                "id": "2a012f1e2d17e198ef31c99c[label]",
+                "name": "Label",
+                "value": {
+                    "id": "2a012f1e2d17e198ef31c99c[label]",
+                    "name": "Label",
+                    "value": "NonKeyAttribute Shape"
+                }
+            },
+            "left": 3727.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16008,
+            "type": "Node Shape",
+            "attributes": {
+                "2a012f1e2d17e198ef31c99c[shape]": {
+                    "id": "2a012f1e2d17e198ef31c99c[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[shape]",
+                        "name": "Shape",
+                        "value": "rounded_rectangle"
+                    },
+                    "option": "Rounded Rectangle"
+                },
+                "2a012f1e2d17e198ef31c99c[color]": {
+                    "id": "2a012f1e2d17e198ef31c99c[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "2a012f1e2d17e198ef31c99c[defaultWidth]": {
+                    "id": "2a012f1e2d17e198ef31c99c[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "2a012f1e2d17e198ef31c99c[defaultHeight]": {
+                    "id": "2a012f1e2d17e198ef31c99c[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "2a012f1e2d17e198ef31c99c[customShape]": {
+                    "id": "2a012f1e2d17e198ef31c99c[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#ffff00\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>\n"
+                    }
+                },
+                "2a012f1e2d17e198ef31c99c[customAnchors]": {
+                    "id": "2a012f1e2d17e198ef31c99c[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "2a012f1e2d17e198ef31c99c[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "c596f288af8b70267235ebb6": {
+            "label": {
+                "id": "c596f288af8b70267235ebb6[label]",
+                "name": "Label",
+                "value": {
+                    "id": "c596f288af8b70267235ebb6[label]",
+                    "name": "Label",
+                    "value": "KeyAttribute"
+                }
+            },
+            "left": 4367.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16009,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "68fdbcee74dd060d8e6be416": {
+                            "id": "68fdbcee74dd060d8e6be416",
+                            "name": "68fdbcee74dd060d8e6be416",
+                            "key": {
+                                "id": "68fdbcee74dd060d8e6be416[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "68fdbcee74dd060d8e6be416[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "e3b7e218147f3bacb2d7982f": {
+            "label": {
+                "id": "e3b7e218147f3bacb2d7982f[label]",
+                "name": "Label",
+                "value": {
+                    "id": "e3b7e218147f3bacb2d7982f[label]",
+                    "name": "Label",
+                    "value": "KeyAttribute Shape"
+                }
+            },
+            "left": 4367.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16010,
+            "type": "Node Shape",
+            "attributes": {
+                "e3b7e218147f3bacb2d7982f[shape]": {
+                    "id": "e3b7e218147f3bacb2d7982f[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[shape]",
+                        "name": "Shape",
+                        "value": "rounded_rectangle"
+                    },
+                    "option": "Rounded Rectangle"
+                },
+                "e3b7e218147f3bacb2d7982f[color]": {
+                    "id": "e3b7e218147f3bacb2d7982f[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "e3b7e218147f3bacb2d7982f[defaultWidth]": {
+                    "id": "e3b7e218147f3bacb2d7982f[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "e3b7e218147f3bacb2d7982f[defaultHeight]": {
+                    "id": "e3b7e218147f3bacb2d7982f[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "e3b7e218147f3bacb2d7982f[customShape]": {
+                    "id": "e3b7e218147f3bacb2d7982f[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#ffff00\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"text-decoration: underline;position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>\n"
+                    }
+                },
+                "e3b7e218147f3bacb2d7982f[customAnchors]": {
+                    "id": "e3b7e218147f3bacb2d7982f[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "e3b7e218147f3bacb2d7982f[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "beb1795d165d59f30ee79492": {
+            "label": {
+                "id": "beb1795d165d59f30ee79492[label]",
+                "name": "Label",
+                "value": {
+                    "id": "beb1795d165d59f30ee79492[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 4017.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16011,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "434d22bfbd67aea3deb72b53": {
+            "label": {
+                "id": "434d22bfbd67aea3deb72b53[label]",
+                "name": "Label",
+                "value": {
+                    "id": "434d22bfbd67aea3deb72b53[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 4217.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16012,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "1323c5652ff9df1337f38d50": {
+            "label": {
+                "id": "1323c5652ff9df1337f38d50[label]",
+                "name": "Label",
+                "value": {
+                    "id": "1323c5652ff9df1337f38d50[label]",
+                    "name": "Label",
+                    "value": "MultiValuedAttribute"
+                }
+            },
+            "left": 4567.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16013,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "2e2ce2bba22c9eb5ed453697": {
+                            "id": "2e2ce2bba22c9eb5ed453697",
+                            "name": "2e2ce2bba22c9eb5ed453697",
+                            "key": {
+                                "id": "2e2ce2bba22c9eb5ed453697[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "2e2ce2bba22c9eb5ed453697[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "896a7f63656ccac7eee52dfd": {
+            "label": {
+                "id": "896a7f63656ccac7eee52dfd[label]",
+                "name": "Label",
+                "value": {
+                    "id": "896a7f63656ccac7eee52dfd[label]",
+                    "name": "Label",
+                    "value": "MultiValuedAttribute"
+                }
+            },
+            "left": 4567.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16014,
+            "type": "Node Shape",
+            "attributes": {
+                "896a7f63656ccac7eee52dfd[shape]": {
+                    "id": "896a7f63656ccac7eee52dfd[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[shape]",
+                        "name": "Shape",
+                        "value": "rounded_rectangle"
+                    },
+                    "option": "Rounded Rectangle"
+                },
+                "896a7f63656ccac7eee52dfd[color]": {
+                    "id": "896a7f63656ccac7eee52dfd[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "896a7f63656ccac7eee52dfd[defaultWidth]": {
+                    "id": "896a7f63656ccac7eee52dfd[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "896a7f63656ccac7eee52dfd[defaultHeight]": {
+                    "id": "896a7f63656ccac7eee52dfd[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "896a7f63656ccac7eee52dfd[customShape]": {
+                    "id": "896a7f63656ccac7eee52dfd[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#ffff00\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/><path fill=\"#ffff00\" d=\"m10.425197 60.0l0 0c0 -29.118887 40.456535 -52.72441 90.362206 -52.72441l0 0c49.90567 0 90.36221 23.605522 90.36221 52.72441l0 0c0 29.118889 -40.456543 52.72441 -90.36221 52.72441l0 0c-49.905666 0 -90.362206 -23.605522 -90.362206 -52.72441z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m10.425197 60.0l0 0c0 -29.118887 40.456535 -52.72441 90.362206 -52.72441l0 0c49.90567 0 90.36221 23.605522 90.36221 52.72441l0 0c0 29.118889 -40.456543 52.72441 -90.36221 52.72441l0 0c-49.905666 0 -90.362206 -23.605522 -90.362206 -52.72441z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>"
+                    }
+                },
+                "896a7f63656ccac7eee52dfd[customAnchors]": {
+                    "id": "896a7f63656ccac7eee52dfd[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "896a7f63656ccac7eee52dfd[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "b2a89188228c7f663de4c713": {
+            "label": {
+                "id": "b2a89188228c7f663de4c713[label]",
+                "name": "Label",
+                "value": {
+                    "id": "b2a89188228c7f663de4c713[label]",
+                    "name": "Label",
+                    "value": "Relation"
+                }
+            },
+            "left": 4767.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16015,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "210b139f82a08e468b77a5ca": {
+                            "id": "210b139f82a08e468b77a5ca",
+                            "name": "210b139f82a08e468b77a5ca",
+                            "key": {
+                                "id": "210b139f82a08e468b77a5ca[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "210b139f82a08e468b77a5ca[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "bb5a6067093f1476b8306cf9": {
+            "label": {
+                "id": "bb5a6067093f1476b8306cf9[label]",
+                "name": "Label",
+                "value": {
+                    "id": "bb5a6067093f1476b8306cf9[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 4437.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16016,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "3888515dacd8e583c33ce832": {
+            "label": {
+                "id": "3888515dacd8e583c33ce832[label]",
+                "name": "Label",
+                "value": {
+                    "id": "3888515dacd8e583c33ce832[label]",
+                    "name": "Label",
+                    "value": "Relation Shape"
+                }
+            },
+            "left": 4767.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16017,
+            "type": "Node Shape",
+            "attributes": {
+                "3888515dacd8e583c33ce832[shape]": {
+                    "id": "3888515dacd8e583c33ce832[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[shape]",
+                        "name": "Shape",
+                        "value": "rounded_rectangle"
+                    },
+                    "option": "Rounded Rectangle"
+                },
+                "3888515dacd8e583c33ce832[color]": {
+                    "id": "3888515dacd8e583c33ce832[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "3888515dacd8e583c33ce832[defaultWidth]": {
+                    "id": "3888515dacd8e583c33ce832[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "3888515dacd8e583c33ce832[defaultHeight]": {
+                    "id": "3888515dacd8e583c33ce832[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "3888515dacd8e583c33ce832[customShape]": {
+                    "id": "3888515dacd8e583c33ce832[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#dd7e6b\" d=\"m2.207349 60.301838l97.70997 -58.75853l97.709984 58.75853l-97.709984 58.758526z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m2.207349 60.301838l97.70997 -58.75853l97.709984 58.75853l-97.709984 58.758526z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>"
+                    }
+                },
+                "3888515dacd8e583c33ce832[customAnchors]": {
+                    "id": "3888515dacd8e583c33ce832[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "3888515dacd8e583c33ce832[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "9b3ec94edc50168a57f635a0": {
+            "label": {
+                "id": "9b3ec94edc50168a57f635a0[label]",
+                "name": "Label",
+                "value": {
+                    "id": "9b3ec94edc50168a57f635a0[label]",
+                    "name": "Label",
+                    "value": "Entity to Relation"
+                }
+            },
+            "left": 4967.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16018,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {
+                        "b2222a85f9ce95bd64a55ada": {
+                            "id": "b2222a85f9ce95bd64a55ada",
+                            "name": "b2222a85f9ce95bd64a55ada",
+                            "key": {
+                                "id": "b2222a85f9ce95bd64a55ada[key]",
+                                "name": "",
+                                "value": "Edge attribute"
+                            },
+                            "value": {
+                                "id": "b2222a85f9ce95bd64a55ada[value]",
+                                "name": "",
+                                "value": "string"
+                            },
+                            "value2": {
+                                "id": "b2222a85f9ce95bd64a55ada[value2]",
+                                "name": "",
+                                "value": "center"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "ea356c24027e569c3da2e8ca": {
+            "label": {
+                "id": "ea356c24027e569c3da2e8ca[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ea356c24027e569c3da2e8ca[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 5367.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16019,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "a8bfc6e27437dfc8a571d6db": {
+            "label": {
+                "id": "a8bfc6e27437dfc8a571d6db[label]",
+                "name": "Label",
+                "value": {
+                    "id": "a8bfc6e27437dfc8a571d6db[label]",
+                    "name": "Label",
+                    "value": "WeakRelation"
+                }
+            },
+            "left": 5167.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16020,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "f6841dc719d935c754d5fde1": {
+                            "id": "f6841dc719d935c754d5fde1",
+                            "name": "f6841dc719d935c754d5fde1",
+                            "key": {
+                                "id": "f6841dc719d935c754d5fde1[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "f6841dc719d935c754d5fde1[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "6b3c3383b5448225e79c761e": {
+            "label": {
+                "id": "6b3c3383b5448225e79c761e[label]",
+                "name": "Label",
+                "value": {
+                    "id": "6b3c3383b5448225e79c761e[label]",
+                    "name": "Label",
+                    "value": "WeakRelation Shape"
+                }
+            },
+            "left": 5167.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16021,
+            "type": "Node Shape",
+            "attributes": {
+                "6b3c3383b5448225e79c761e[shape]": {
+                    "id": "6b3c3383b5448225e79c761e[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[shape]",
+                        "name": "Shape",
+                        "value": "rectangle"
+                    },
+                    "option": "Rectangle"
+                },
+                "6b3c3383b5448225e79c761e[color]": {
+                    "id": "6b3c3383b5448225e79c761e[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "6b3c3383b5448225e79c761e[defaultWidth]": {
+                    "id": "6b3c3383b5448225e79c761e[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "6b3c3383b5448225e79c761e[defaultHeight]": {
+                    "id": "6b3c3383b5448225e79c761e[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "6b3c3383b5448225e79c761e[customShape]": {
+                    "id": "6b3c3383b5448225e79c761e[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#dd7e6b\" d=\"m2.207349 60.301838l97.70997 -58.75853l97.709984 58.75853l-97.709984 58.758526z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m2.207349 60.301838l97.70997 -58.75853l97.709984 58.75853l-97.709984 58.758526z\" fill-rule=\"evenodd\"/><path fill=\"#dd7e6b\" d=\"m6.3622046 60.301838l93.555115 -53.062992l93.55512 53.062992l-93.55512 53.062992z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m6.3622046 60.301838l93.555115 -53.062992l93.55512 53.062992l-93.55512 53.062992z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>"
+                    }
+                },
+                "6b3c3383b5448225e79c761e[customAnchors]": {
+                    "id": "6b3c3383b5448225e79c761e[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "6b3c3383b5448225e79c761e[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "adceafd43e4fe9be4893b24b": {
+            "label": {
+                "id": "adceafd43e4fe9be4893b24b[label]",
+                "name": "Label",
+                "value": {
+                    "id": "adceafd43e4fe9be4893b24b[label]",
+                    "name": "Label",
+                    "value": "WeakEntity"
+                }
+            },
+            "left": 4757.5,
+            "top": 4225,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16022,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "b347ed199012b3c92f6ed197": {
+                            "id": "b347ed199012b3c92f6ed197",
+                            "name": "b347ed199012b3c92f6ed197",
+                            "key": {
+                                "id": "b347ed199012b3c92f6ed197[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "b347ed199012b3c92f6ed197[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "5003617de3b8a85535c321c3": {
+            "label": {
+                "id": "5003617de3b8a85535c321c3[label]",
+                "name": "Label",
+                "value": {
+                    "id": "5003617de3b8a85535c321c3[label]",
+                    "name": "Label",
+                    "value": "WeakEntity Shape"
+                }
+            },
+            "left": 5147.5,
+            "top": 4400,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16023,
+            "type": "Node Shape",
+            "attributes": {
+                "5003617de3b8a85535c321c3[shape]": {
+                    "id": "5003617de3b8a85535c321c3[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[shape]",
+                        "name": "Shape",
+                        "value": "rectangle"
+                    },
+                    "option": "Rectangle"
+                },
+                "5003617de3b8a85535c321c3[color]": {
+                    "id": "5003617de3b8a85535c321c3[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "5003617de3b8a85535c321c3[defaultWidth]": {
+                    "id": "5003617de3b8a85535c321c3[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "5003617de3b8a85535c321c3[defaultHeight]": {
+                    "id": "5003617de3b8a85535c321c3[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "5003617de3b8a85535c321c3[customShape]": {
+                    "id": "5003617de3b8a85535c321c3[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#cfe2f3\" d=\"m0.7007874 0.839895l198.3622 0l0 118.58267l-198.3622 0z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m0.7007874 0.839895l198.3622 0l0 118.58267l-198.3622 0z\" fill-rule=\"evenodd\"/><path fill=\"#cfe2f3\" d=\"m5.4671917 5.8267717l188.40945 0l0 107.937004l-188.40945 0z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m5.4671917 5.8267717l188.40945 0l0 107.937004l-188.40945 0z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>"
+                    }
+                },
+                "5003617de3b8a85535c321c3[customAnchors]": {
+                    "id": "5003617de3b8a85535c321c3[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "5003617de3b8a85535c321c3[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "37bde6466328655a6d54a6ec": {
+            "label": {
+                "id": "37bde6466328655a6d54a6ec[label]",
+                "name": "Label",
+                "value": {
+                    "id": "37bde6466328655a6d54a6ec[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 4827.5,
+            "top": 4400,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16024,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "224cfc72cae8efe6e9e51bf4": {
+            "label": {
+                "id": "224cfc72cae8efe6e9e51bf4[label]",
+                "name": "Label",
+                "value": {
+                    "id": "224cfc72cae8efe6e9e51bf4[label]",
+                    "name": "Label",
+                    "value": "WeakKeyAttribute"
+                }
+            },
+            "left": 5367.5,
+            "top": 4575,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16025,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "d0dd587198ff83d632af8e5e": {
+                            "id": "d0dd587198ff83d632af8e5e",
+                            "name": "d0dd587198ff83d632af8e5e",
+                            "key": {
+                                "id": "d0dd587198ff83d632af8e5e[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "d0dd587198ff83d632af8e5e[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3406ab68240e47e6757f6cdc": {
+            "label": {
+                "id": "3406ab68240e47e6757f6cdc[label]",
+                "name": "Label",
+                "value": {
+                    "id": "3406ab68240e47e6757f6cdc[label]",
+                    "name": "Label",
+                    "value": "WeakKeyAttribute Shape"
+                }
+            },
+            "left": 5367.5,
+            "top": 4750,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16026,
+            "type": "Node Shape",
+            "attributes": {
+                "3406ab68240e47e6757f6cdc[shape]": {
+                    "id": "3406ab68240e47e6757f6cdc[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[shape]",
+                        "name": "Shape",
+                        "value": "rounded_rectangle"
+                    },
+                    "option": "Rounded Rectangle"
+                },
+                "3406ab68240e47e6757f6cdc[color]": {
+                    "id": "3406ab68240e47e6757f6cdc[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "3406ab68240e47e6757f6cdc[defaultWidth]": {
+                    "id": "3406ab68240e47e6757f6cdc[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "3406ab68240e47e6757f6cdc[defaultHeight]": {
+                    "id": "3406ab68240e47e6757f6cdc[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "3406ab68240e47e6757f6cdc[customShape]": {
+                    "id": "3406ab68240e47e6757f6cdc[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#ffff00\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m7.905512 60.29659l0 0c0 -31.362818 41.58464 -56.787403 92.88189 -56.787403l0 0c51.297256 0 92.8819 25.424585 92.8819 56.787403l0 0c0 31.362812 -41.58464 56.787403 -92.8819 56.787403l0 0c-51.29725 0 -92.88189 -25.424591 -92.88189 -56.787403z\" fill-rule=\"evenodd\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"text-decoration-line: underline;text-decoration-style: dashed;position: absolute; left: 50%; top: 50%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>\n"
+                    }
+                },
+                "3406ab68240e47e6757f6cdc[customAnchors]": {
+                    "id": "3406ab68240e47e6757f6cdc[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "3406ab68240e47e6757f6cdc[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "81d34e9680bf58d31b319c1a": {
+            "label": {
+                "id": "81d34e9680bf58d31b319c1a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "81d34e9680bf58d31b319c1a[label]",
+                    "name": "Label",
+                    "value": "has"
+                }
+            },
+            "left": 4340.000000000004,
+            "top": 4083.7500000000036,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16027,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "dc0ee396968ef586f88a2154": {
+            "label": {
+                "id": "dc0ee396968ef586f88a2154[label]",
+                "name": "Label",
+                "value": {
+                    "id": "dc0ee396968ef586f88a2154[label]",
+                    "name": "Label",
+                    "value": "isA"
+                }
+            },
+            "left": 4343.750000000004,
+            "top": 3855.250000000003,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16028,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "0bc9bbc7f8cc7e599a6ab139": {
+                            "id": "0bc9bbc7f8cc7e599a6ab139",
+                            "name": "0bc9bbc7f8cc7e599a6ab139",
+                            "key": {
+                                "id": "0bc9bbc7f8cc7e599a6ab139[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "0bc9bbc7f8cc7e599a6ab139[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "32780af7c5ff656d34855fea": {
+            "label": {
+                "id": "32780af7c5ff656d34855fea[label]",
+                "name": "Label",
+                "value": {
+                    "id": "32780af7c5ff656d34855fea[label]",
+                    "name": "Label",
+                    "value": "isA Shape"
+                }
+            },
+            "left": 4342.000000000004,
+            "top": 3586.2500000000027,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16029,
+            "type": "Node Shape",
+            "attributes": {
+                "32780af7c5ff656d34855fea[shape]": {
+                    "id": "32780af7c5ff656d34855fea[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[shape]",
+                        "name": "Shape",
+                        "value": "triangle"
+                    },
+                    "option": "Triangle"
+                },
+                "32780af7c5ff656d34855fea[color]": {
+                    "id": "32780af7c5ff656d34855fea[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "32780af7c5ff656d34855fea[defaultWidth]": {
+                    "id": "32780af7c5ff656d34855fea[defaultWidth]",
+                    "name": "Default Width",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[defaultWidth]",
+                        "name": "Default Width",
+                        "value": 100
+                    }
+                },
+                "32780af7c5ff656d34855fea[defaultHeight]": {
+                    "id": "32780af7c5ff656d34855fea[defaultHeight]",
+                    "name": "Default Height",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[defaultHeight]",
+                        "name": "Default Height",
+                        "value": 60
+                    }
+                },
+                "32780af7c5ff656d34855fea[customShape]": {
+                    "id": "32780af7c5ff656d34855fea[customShape]",
+                    "name": "Custom Shape",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[customShape]",
+                        "name": "Custom Shape",
+                        "value": "<div class=\"custom_node\">\n<svg version=\"1.1\" viewBox=\"0.0 0.0 200.0 120.0\" fill=\"none\" stroke=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><clipPath id=\"p.0\"><path d=\"m0 0l200.0 0l0 120.0l-200.0 0l0 -120.0z\" clip-rule=\"nonzero\"/></clipPath><g clip-path=\"url(#p.0)\"><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m0 0l200.0 0l0 120.0l-200.0 0z\" fill-rule=\"evenodd\"/><path fill=\"#dd7e6b\" d=\"m2.527559 0.5958005l194.49869 0l-97.249344 118.0z\" fill-rule=\"evenodd\"/><path stroke=\"#000000\" stroke-width=\"1.0\" stroke-linejoin=\"round\" stroke-linecap=\"butt\" d=\"m2.527559 0.5958005l194.49869 0l-97.249344 118.0z\" fill-rule=\"evenodd\"/><path fill=\"#000000\" fill-opacity=\"0.0\" d=\"m51.301838 14.060368l96.06299 0l0 46.834644l-96.06299 0z\" fill-rule=\"evenodd\"/><path fill=\"#000000\" d=\"m79.23177 34.108494l0 -3.234375l2.8125 0l0 3.234375l-2.8125 0zm0 19.671875l0 -16.59375l2.8125 0l0 16.59375l-2.8125 0zm5.96875 -4.953125l2.78125 -0.4375q0.234375 1.671875 1.296875 2.5625q1.078125 0.890625 3.0 0.890625q1.9375 0 2.875 -0.78125q0.9375 -0.796875 0.9375 -1.859375q0 -0.953125 -0.828125 -1.5q-0.578125 -0.375 -2.875 -0.953125q-3.09375 -0.78125 -4.296875 -1.34375q-1.1875 -0.578125 -1.8125 -1.578125q-0.609375 -1.015625 -0.609375 -2.234375q0 -1.109375 0.5 -2.046875q0.515625 -0.953125 1.390625 -1.578125q0.65625 -0.484375 1.78125 -0.8125q1.140625 -0.34375 2.4375 -0.34375q1.953125 0 3.421875 0.5625q1.484375 0.5625 2.1875 1.53125q0.703125 0.953125 0.96875 2.5625l-2.75 0.375q-0.1875 -1.28125 -1.09375 -2.0q-0.890625 -0.71875 -2.53125 -0.71875q-1.9375 0 -2.765625 0.640625q-0.828125 0.640625 -0.828125 1.5q0 0.546875 0.34375 0.984375q0.34375 0.453125 1.078125 0.75q0.421875 0.15625 2.484375 0.71875q2.984375 0.796875 4.15625 1.3125q1.1875 0.5 1.859375 1.46875q0.671875 0.96875 0.671875 2.40625q0 1.40625 -0.828125 2.65625q-0.8125 1.234375 -2.359375 1.921875q-1.546875 0.671875 -3.5 0.671875q-3.234375 0 -4.9375 -1.34375q-1.6875 -1.34375 -2.15625 -3.984375zm14.96875 4.953125l8.796875 -22.90625l3.265625 0l9.374992 22.90625l-3.453125 0l-2.671875 -6.9375l-9.578117 0l-2.515625 6.9375l-3.21875 0zm6.609375 -9.40625l7.765625 0l-2.390625 -6.34375q-1.09375 -2.890625 -1.625 -4.75q-0.4375 2.203125 -1.234375 4.375l-2.515625 6.71875z\" fill-rule=\"nonzero\"/></g></svg>\n<div class=\"fill_parent\">\n        <div style=\"position: absolute; left: 80%; top: 15%; -webkit-transform: translateY(-50%) translateX(-50%)\" class=\"name\"></div>\n    </div>\n</div>\n"
+                    }
+                },
+                "32780af7c5ff656d34855fea[customAnchors]": {
+                    "id": "32780af7c5ff656d34855fea[customAnchors]",
+                    "name": "Custom Anchors",
+                    "value": {
+                        "id": "32780af7c5ff656d34855fea[customAnchors]",
+                        "name": "Custom Anchors",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "10c765bc4daad79f23115809": {
+            "label": {
+                "id": "10c765bc4daad79f23115809[label]",
+                "name": "Label",
+                "value": {
+                    "id": "10c765bc4daad79f23115809[label]",
+                    "name": "Label",
+                    "value": "General Entity to isA"
+                }
+            },
+            "left": 4669.999999999999,
+            "top": 3949.9999999999995,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16030,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {}
+                }
+            }
+        },
+        "ff62f9a9e8385f61542837e9": {
+            "label": {
+                "id": "ff62f9a9e8385f61542837e9[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ff62f9a9e8385f61542837e9[label]",
+                    "name": "Label",
+                    "value": "has"
+                }
+            },
+            "left": 3938.3333333333326,
+            "top": 4031.666666666666,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16031,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "8b2092e8b099b924df93efae": {
+            "label": {
+                "id": "8b2092e8b099b924df93efae[label]",
+                "name": "Label",
+                "value": {
+                    "id": "8b2092e8b099b924df93efae[label]",
+                    "name": "Label",
+                    "value": "NonDisjoint - Entity to isA"
+                }
+            },
+            "left": 3936.666666666666,
+            "top": 3808.3333333333326,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16032,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {}
+                }
+            }
+        },
+        "33a2abbe02c9b88c742d278a": {
+            "label": {
+                "id": "33a2abbe02c9b88c742d278a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "33a2abbe02c9b88c742d278a[label]",
+                    "name": "Label",
+                    "value": "NonDisjoint Shape"
+                }
+            },
+            "left": 3953.333333333333,
+            "top": 3560.333333333333,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16033,
+            "type": "Edge Shape",
+            "attributes": {
+                "33a2abbe02c9b88c742d278a[arrow]": {
+                    "id": "33a2abbe02c9b88c742d278a[arrow]",
+                    "name": "Arrow",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[arrow]",
+                        "name": "Arrow",
+                        "value": "generalisation"
+                    },
+                    "option": "--▷"
+                },
+                "33a2abbe02c9b88c742d278a[shape]": {
+                    "id": "33a2abbe02c9b88c742d278a[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[shape]",
+                        "name": "Shape",
+                        "value": "straight"
+                    },
+                    "option": "Straight"
+                },
+                "33a2abbe02c9b88c742d278a[color]": {
+                    "id": "33a2abbe02c9b88c742d278a[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "33a2abbe02c9b88c742d278a[overlay]": {
+                    "id": "33a2abbe02c9b88c742d278a[overlay]",
+                    "name": "Overlay Text",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[overlay]",
+                        "name": "Overlay Text",
+                        "value": ""
+                    }
+                },
+                "33a2abbe02c9b88c742d278a[overlayPosition]": {
+                    "id": "33a2abbe02c9b88c742d278a[overlayPosition]",
+                    "name": "Overlay Position",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[overlayPosition]",
+                        "name": "Overlay Position",
+                        "value": "hidden"
+                    },
+                    "option": "Hide"
+                },
+                "33a2abbe02c9b88c742d278a[overlayRotate]": {
+                    "id": "33a2abbe02c9b88c742d278a[overlayRotate]",
+                    "name": "Autoflip Overlay",
+                    "value": {
+                        "id": "33a2abbe02c9b88c742d278a[overlayRotate]",
+                        "name": "Autoflip Overlay",
+                        "value": false
+                    }
+                }
+            }
+        },
+        "68b586286725f92359cbb341": {
+            "label": {
+                "id": "68b586286725f92359cbb341[label]",
+                "name": "Label",
+                "value": {
+                    "id": "68b586286725f92359cbb341[label]",
+                    "name": "Label",
+                    "value": "has"
+                }
+            },
+            "left": 3636,
+            "top": 4028,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16034,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "a29dfe95282f67d3c9b89f49": {
+            "label": {
+                "id": "a29dfe95282f67d3c9b89f49[label]",
+                "name": "Label",
+                "value": {
+                    "id": "a29dfe95282f67d3c9b89f49[label]",
+                    "name": "Label",
+                    "value": "Disjoint - isA to Entity"
+                }
+            },
+            "left": 3639,
+            "top": 3808,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16035,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {}
+                }
+            }
+        },
+        "ab62714cd6e718ad750ad4c5": {
+            "label": {
+                "id": "ab62714cd6e718ad750ad4c5[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ab62714cd6e718ad750ad4c5[label]",
+                    "name": "Label",
+                    "value": "Disjoint Shape"
+                }
+            },
+            "left": 3633,
+            "top": 3570,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16036,
+            "type": "Edge Shape",
+            "attributes": {
+                "ab62714cd6e718ad750ad4c5[arrow]": {
+                    "id": "ab62714cd6e718ad750ad4c5[arrow]",
+                    "name": "Arrow",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[arrow]",
+                        "name": "Arrow",
+                        "value": "generalisation"
+                    },
+                    "option": "--▷"
+                },
+                "ab62714cd6e718ad750ad4c5[shape]": {
+                    "id": "ab62714cd6e718ad750ad4c5[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[shape]",
+                        "name": "Shape",
+                        "value": "straight"
+                    },
+                    "option": "Straight"
+                },
+                "ab62714cd6e718ad750ad4c5[color]": {
+                    "id": "ab62714cd6e718ad750ad4c5[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[color]",
+                        "name": "Color",
+                        "value": ""
+                    }
+                },
+                "ab62714cd6e718ad750ad4c5[overlay]": {
+                    "id": "ab62714cd6e718ad750ad4c5[overlay]",
+                    "name": "Overlay Text",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[overlay]",
+                        "name": "Overlay Text",
+                        "value": ""
+                    }
+                },
+                "ab62714cd6e718ad750ad4c5[overlayPosition]": {
+                    "id": "ab62714cd6e718ad750ad4c5[overlayPosition]",
+                    "name": "Overlay Position",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[overlayPosition]",
+                        "name": "Overlay Position",
+                        "value": "hidden"
+                    },
+                    "option": "Hide"
+                },
+                "ab62714cd6e718ad750ad4c5[overlayRotate]": {
+                    "id": "ab62714cd6e718ad750ad4c5[overlayRotate]",
+                    "name": "Autoflip Overlay",
+                    "value": {
+                        "id": "ab62714cd6e718ad750ad4c5[overlayRotate]",
+                        "name": "Autoflip Overlay",
+                        "value": false
+                    }
+                }
+            }
+        }
+    },
+    "edges": {
+        "7424ca8d859f02e76579c6e3": {
+            "label": {
+                "id": "7424ca8d859f02e76579c6e3[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7424ca8d859f02e76579c6e3[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "1c67132afa49354dfe3eb26e",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "3b9572dd06829d3f495cdba7": {
+            "label": {
+                "id": "3b9572dd06829d3f495cdba7[label]",
+                "name": "Label",
+                "value": {
+                    "id": "3b9572dd06829d3f495cdba7[label]",
+                    "name": "Label",
+                    "value": "from"
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "359687e3aa65c290d3ff2c35",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "7e4df59288fc6588c943b9ea": {
+            "label": {
+                "id": "7e4df59288fc6588c943b9ea[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7e4df59288fc6588c943b9ea[label]",
+                    "name": "Label",
+                    "value": "to"
+                }
+            },
+            "source": "359687e3aa65c290d3ff2c35",
+            "target": "5c3a10bd1fe4e78f3ce8bdb1",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "f92278780b0473c90adb083a": {
+            "label": {
+                "id": "f92278780b0473c90adb083a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "f92278780b0473c90adb083a[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "359687e3aa65c290d3ff2c35",
+            "target": "b7827b7430f0345901702c9a",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "bbbbb01b3158923dee18434b": {
+            "label": {
+                "id": "bbbbb01b3158923dee18434b[label]",
+                "name": "Label",
+                "value": {
+                    "id": "bbbbb01b3158923dee18434b[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "5c3a10bd1fe4e78f3ce8bdb1",
+            "target": "2a012f1e2d17e198ef31c99c",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "0f7ec23cc16f5abb41c6dd9a": {
+            "label": {
+                "id": "0f7ec23cc16f5abb41c6dd9a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "0f7ec23cc16f5abb41c6dd9a[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "c596f288af8b70267235ebb6",
+            "target": "e3b7e218147f3bacb2d7982f",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "486847771102002c4c5a69f5": {
+            "label": {
+                "id": "486847771102002c4c5a69f5[label]",
+                "name": "Label",
+                "value": {
+                    "id": "486847771102002c4c5a69f5[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "beb1795d165d59f30ee79492",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "fae2f1aff0c74c3e60d88d04": {
+            "label": {
+                "id": "fae2f1aff0c74c3e60d88d04[label]",
+                "name": "Label",
+                "value": {
+                    "id": "fae2f1aff0c74c3e60d88d04[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "beb1795d165d59f30ee79492",
+            "target": "b7827b7430f0345901702c9a",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "d50e6b4027099f41611c5fa2": {
+            "label": {
+                "id": "d50e6b4027099f41611c5fa2[label]",
+                "name": "Label",
+                "value": {
+                    "id": "d50e6b4027099f41611c5fa2[label]",
+                    "name": "Label",
+                    "value": "to"
+                }
+            },
+            "source": "beb1795d165d59f30ee79492",
+            "target": "c596f288af8b70267235ebb6",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "4cae23f3ffa1f758d8a46b8f": {
+            "label": {
+                "id": "4cae23f3ffa1f758d8a46b8f[label]",
+                "name": "Label",
+                "value": {
+                    "id": "4cae23f3ffa1f758d8a46b8f[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "434d22bfbd67aea3deb72b53",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "c28a200fc0867cfd16c2e391": {
+            "label": {
+                "id": "c28a200fc0867cfd16c2e391[label]",
+                "name": "Label",
+                "value": {
+                    "id": "c28a200fc0867cfd16c2e391[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "434d22bfbd67aea3deb72b53",
+            "target": "1323c5652ff9df1337f38d50",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "6d8cd77cceaa0a7e13f3cfb6": {
+            "label": {
+                "id": "6d8cd77cceaa0a7e13f3cfb6[label]",
+                "name": "Label",
+                "value": {
+                    "id": "6d8cd77cceaa0a7e13f3cfb6[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "1323c5652ff9df1337f38d50",
+            "target": "896a7f63656ccac7eee52dfd",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "ee4de7a4c5e99fcb34832e2d": {
+            "label": {
+                "id": "ee4de7a4c5e99fcb34832e2d[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ee4de7a4c5e99fcb34832e2d[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "434d22bfbd67aea3deb72b53",
+            "target": "b7827b7430f0345901702c9a",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "de3ab3a0d89318f7c09c5077": {
+            "label": {
+                "id": "de3ab3a0d89318f7c09c5077[label]",
+                "name": "Label",
+                "value": {
+                    "id": "de3ab3a0d89318f7c09c5077[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "bb5a6067093f1476b8306cf9",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "7217671b5c0b00146ff182e9": {
+            "label": {
+                "id": "7217671b5c0b00146ff182e9[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7217671b5c0b00146ff182e9[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "bb5a6067093f1476b8306cf9",
+            "target": "b2a89188228c7f663de4c713",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "15c6ee2fc267906d84e1fc6d": {
+            "label": {
+                "id": "15c6ee2fc267906d84e1fc6d[label]",
+                "name": "Label",
+                "value": {
+                    "id": "15c6ee2fc267906d84e1fc6d[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "b2a89188228c7f663de4c713",
+            "target": "3888515dacd8e583c33ce832",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "2eab53207ea2aa22643f29c4": {
+            "label": {
+                "id": "2eab53207ea2aa22643f29c4[label]",
+                "name": "Label",
+                "value": {
+                    "id": "2eab53207ea2aa22643f29c4[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "bb5a6067093f1476b8306cf9",
+            "target": "9b3ec94edc50168a57f635a0",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "0645f74389ead1f65d894859": {
+            "label": {
+                "id": "0645f74389ead1f65d894859[label]",
+                "name": "Label",
+                "value": {
+                    "id": "0645f74389ead1f65d894859[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "ea356c24027e569c3da2e8ca",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "c3d0f84b13075c1a95e42bab": {
+            "label": {
+                "id": "c3d0f84b13075c1a95e42bab[label]",
+                "name": "Label",
+                "value": {
+                    "id": "c3d0f84b13075c1a95e42bab[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "ea356c24027e569c3da2e8ca",
+            "target": "a8bfc6e27437dfc8a571d6db",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "ea42ab7c200409614c21837b": {
+            "label": {
+                "id": "ea42ab7c200409614c21837b[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ea42ab7c200409614c21837b[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "a8bfc6e27437dfc8a571d6db",
+            "target": "6b3c3383b5448225e79c761e",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "f3e6833c91626a1874c2e31e": {
+            "label": {
+                "id": "f3e6833c91626a1874c2e31e[label]",
+                "name": "Label",
+                "value": {
+                    "id": "f3e6833c91626a1874c2e31e[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "ea356c24027e569c3da2e8ca",
+            "target": "9b3ec94edc50168a57f635a0",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "7f55a9e6ec395fb5beacd9cf": {
+            "label": {
+                "id": "7f55a9e6ec395fb5beacd9cf[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7f55a9e6ec395fb5beacd9cf[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "359687e3aa65c290d3ff2c35",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "37873860e959103cbc2c0f36": {
+            "label": {
+                "id": "37873860e959103cbc2c0f36[label]",
+                "name": "Label",
+                "value": {
+                    "id": "37873860e959103cbc2c0f36[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "434d22bfbd67aea3deb72b53",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "11229cc98585c2fe1689f974": {
+            "label": {
+                "id": "11229cc98585c2fe1689f974[label]",
+                "name": "Label",
+                "value": {
+                    "id": "11229cc98585c2fe1689f974[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "bb5a6067093f1476b8306cf9",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "ce032222b65f151a7b9901e2": {
+            "label": {
+                "id": "ce032222b65f151a7b9901e2[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ce032222b65f151a7b9901e2[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "ea356c24027e569c3da2e8ca",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "8e46919733096010881a4383": {
+            "label": {
+                "id": "8e46919733096010881a4383[label]",
+                "name": "Label",
+                "value": {
+                    "id": "8e46919733096010881a4383[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "5003617de3b8a85535c321c3",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "1a0f64047cdee926c7877b5d": {
+            "label": {
+                "id": "1a0f64047cdee926c7877b5d[label]",
+                "name": "Label",
+                "value": {
+                    "id": "1a0f64047cdee926c7877b5d[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "37bde6466328655a6d54a6ec",
+            "target": "224cfc72cae8efe6e9e51bf4",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "7a7cce8b097f0011b1af8e53": {
+            "label": {
+                "id": "7a7cce8b097f0011b1af8e53[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7a7cce8b097f0011b1af8e53[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "224cfc72cae8efe6e9e51bf4",
+            "target": "3406ab68240e47e6757f6cdc",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "bc4e9d5377bdd93b42a5cbbd": {
+            "label": {
+                "id": "bc4e9d5377bdd93b42a5cbbd[label]",
+                "name": "Label",
+                "value": {
+                    "id": "bc4e9d5377bdd93b42a5cbbd[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "37bde6466328655a6d54a6ec",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "1cb9ca929b49e941394f08a6": {
+            "label": {
+                "id": "1cb9ca929b49e941394f08a6[label]",
+                "name": "Label",
+                "value": {
+                    "id": "1cb9ca929b49e941394f08a6[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "37bde6466328655a6d54a6ec",
+            "target": "b7827b7430f0345901702c9a",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "72017ec986e995a9fb07cbc9": {
+            "label": {
+                "id": "72017ec986e995a9fb07cbc9[label]",
+                "name": "Label",
+                "value": {
+                    "id": "72017ec986e995a9fb07cbc9[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "81d34e9680bf58d31b319c1a",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "02b42a380dc0b11223c68ced": {
+            "label": {
+                "id": "02b42a380dc0b11223c68ced[label]",
+                "name": "Label",
+                "value": {
+                    "id": "02b42a380dc0b11223c68ced[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "81d34e9680bf58d31b319c1a",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "1301e8427df5116d1199fdec": {
+            "label": {
+                "id": "1301e8427df5116d1199fdec[label]",
+                "name": "Label",
+                "value": {
+                    "id": "1301e8427df5116d1199fdec[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "81d34e9680bf58d31b319c1a",
+            "target": "dc0ee396968ef586f88a2154",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "c7b588f6e573330da71682bd": {
+            "label": {
+                "id": "c7b588f6e573330da71682bd[label]",
+                "name": "Label",
+                "value": {
+                    "id": "c7b588f6e573330da71682bd[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "dc0ee396968ef586f88a2154",
+            "target": "32780af7c5ff656d34855fea",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "ced72eff4a84600411f151d9": {
+            "label": {
+                "id": "ced72eff4a84600411f151d9[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ced72eff4a84600411f151d9[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "81d34e9680bf58d31b319c1a",
+            "target": "10c765bc4daad79f23115809",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "41ee8e71ccf11aededf08a45": {
+            "label": {
+                "id": "41ee8e71ccf11aededf08a45[label]",
+                "name": "Label",
+                "value": {
+                    "id": "41ee8e71ccf11aededf08a45[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "ff62f9a9e8385f61542837e9",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "ce75131a2c49e036ea80d5a1": {
+            "label": {
+                "id": "ce75131a2c49e036ea80d5a1[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ce75131a2c49e036ea80d5a1[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "ff62f9a9e8385f61542837e9",
+            "target": "8b2092e8b099b924df93efae",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "59bec8411eb912d41e14c551": {
+            "label": {
+                "id": "59bec8411eb912d41e14c551[label]",
+                "name": "Label",
+                "value": {
+                    "id": "59bec8411eb912d41e14c551[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "ff62f9a9e8385f61542837e9",
+            "target": "dc0ee396968ef586f88a2154",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "cf5c458b809d995566f52669": {
+            "label": {
+                "id": "cf5c458b809d995566f52669[label]",
+                "name": "Label",
+                "value": {
+                    "id": "cf5c458b809d995566f52669[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "ff62f9a9e8385f61542837e9",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "954a59eff9e849ce0612c33f": {
+            "label": {
+                "id": "954a59eff9e849ce0612c33f[label]",
+                "name": "Label",
+                "value": {
+                    "id": "954a59eff9e849ce0612c33f[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "8b2092e8b099b924df93efae",
+            "target": "33a2abbe02c9b88c742d278a",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "dfd11d6c5f8af7ef23cb7c2a": {
+            "label": {
+                "id": "dfd11d6c5f8af7ef23cb7c2a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "dfd11d6c5f8af7ef23cb7c2a[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "dc0ee396968ef586f88a2154",
+            "target": "68b586286725f92359cbb341",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "fd222a477423f2824831a4e1": {
+            "label": {
+                "id": "fd222a477423f2824831a4e1[label]",
+                "name": "Label",
+                "value": {
+                    "id": "fd222a477423f2824831a4e1[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "68b586286725f92359cbb341",
+            "target": "725c6cd472a277b8a0e0ada0",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "7129bbb501474701c76fb4ed": {
+            "label": {
+                "id": "7129bbb501474701c76fb4ed[label]",
+                "name": "Label",
+                "value": {
+                    "id": "7129bbb501474701c76fb4ed[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "68b586286725f92359cbb341",
+            "target": "a29dfe95282f67d3c9b89f49",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "6399821eb297f143837d8907": {
+            "label": {
+                "id": "6399821eb297f143837d8907[label]",
+                "name": "Label",
+                "value": {
+                    "id": "6399821eb297f143837d8907[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "a29dfe95282f67d3c9b89f49",
+            "target": "ab62714cd6e718ad750ad4c5",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        }
+    }
+}

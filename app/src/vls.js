@@ -217,20 +217,10 @@ export default {
             "relations": [
                 {
                     "sourceTypes": [
-                        "Entity",
-                        "WeakEntity"
+                        "Entity"
                     ],
                     "targetTypes": [
                         "Relation"
-                    ]
-                },
-                {
-                    "sourceTypes": [
-                        "Entity",
-                        "WeakEntity"
-                    ],
-                    "targetTypes": [
-                        "WeakRelation"
                     ]
                 }
             ],
@@ -309,6 +299,35 @@ export default {
                 }
             ],
             "attributes": {}
+        },
+        "a8e4cfbd2c13b505f3ba2d88": {
+            "label": "Weak Entity to Relation",
+            "shape": {
+                "arrow": "bidirassociation",
+                "shape": "straight",
+                "color": "#8abbe6",
+                "overlay": "Weak",
+                "overlayPosition": "top",
+                "overlayRotate": false
+            },
+            "relations": [
+                {
+                    "sourceTypes": [
+                        "Entity",
+                        "WeakEntity"
+                    ],
+                    "targetTypes": [
+                        "WeakRelation"
+                    ]
+                }
+            ],
+            "attributes": {
+                "88c81631ff7f34a309254dc0": {
+                    "key": "Edge attribute",
+                    "value": "string",
+                    "position": "center"
+                }
+            }
         }
     }
 }

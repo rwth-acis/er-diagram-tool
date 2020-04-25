@@ -1597,6 +1597,127 @@
                     }
                 }
             }
+        },
+        "a8e4cfbd2c13b505f3ba2d88": {
+            "label": {
+                "id": "a8e4cfbd2c13b505f3ba2d88[label]",
+                "name": "Label",
+                "value": {
+                    "id": "a8e4cfbd2c13b505f3ba2d88[label]",
+                    "name": "Label",
+                    "value": "Weak Entity to Relation"
+                }
+            },
+            "left": 5592.142857142857,
+            "top": 4562.857142857142,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16038,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {
+                        "88c81631ff7f34a309254dc0": {
+                            "id": "88c81631ff7f34a309254dc0",
+                            "name": "88c81631ff7f34a309254dc0",
+                            "key": {
+                                "id": "88c81631ff7f34a309254dc0[key]",
+                                "name": "",
+                                "value": "Edge attribute"
+                            },
+                            "value": {
+                                "id": "88c81631ff7f34a309254dc0[value]",
+                                "name": "",
+                                "value": "string"
+                            },
+                            "value2": {
+                                "id": "88c81631ff7f34a309254dc0[value2]",
+                                "name": "",
+                                "value": "center"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "eccccc96192753b57d4d3844": {
+            "label": {
+                "id": "eccccc96192753b57d4d3844[label]",
+                "name": "Label",
+                "value": {
+                    "id": "eccccc96192753b57d4d3844[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "left": 5593.571428571428,
+            "top": 4757.857142857142,
+            "width": 150,
+            "height": 150,
+            "zIndex": 16039,
+            "type": "Edge Shape",
+            "attributes": {
+                "eccccc96192753b57d4d3844[arrow]": {
+                    "id": "eccccc96192753b57d4d3844[arrow]",
+                    "name": "Arrow",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[arrow]",
+                        "name": "Arrow",
+                        "value": "bidirassociation"
+                    },
+                    "option": "---"
+                },
+                "eccccc96192753b57d4d3844[shape]": {
+                    "id": "eccccc96192753b57d4d3844[shape]",
+                    "name": "Shape",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[shape]",
+                        "name": "Shape",
+                        "value": "straight"
+                    },
+                    "option": "Straight"
+                },
+                "eccccc96192753b57d4d3844[color]": {
+                    "id": "eccccc96192753b57d4d3844[color]",
+                    "name": "Color",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[color]",
+                        "name": "Color",
+                        "value": "#8abbe6"
+                    }
+                },
+                "eccccc96192753b57d4d3844[overlay]": {
+                    "id": "eccccc96192753b57d4d3844[overlay]",
+                    "name": "Overlay Text",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[overlay]",
+                        "name": "Overlay Text",
+                        "value": "Weak"
+                    }
+                },
+                "eccccc96192753b57d4d3844[overlayPosition]": {
+                    "id": "eccccc96192753b57d4d3844[overlayPosition]",
+                    "name": "Overlay Position",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[overlayPosition]",
+                        "name": "Overlay Position",
+                        "value": "top"
+                    },
+                    "option": "Top"
+                },
+                "eccccc96192753b57d4d3844[overlayRotate]": {
+                    "id": "eccccc96192753b57d4d3844[overlayRotate]",
+                    "name": "Autoflip Overlay",
+                    "value": {
+                        "id": "eccccc96192753b57d4d3844[overlayRotate]",
+                        "name": "Autoflip Overlay",
+                        "value": false
+                    }
+                }
+            }
         }
     },
     "edges": {
@@ -1900,21 +2021,6 @@
             "attributes": {},
             "type": "Bi-Dir-Association"
         },
-        "f3e6833c91626a1874c2e31e": {
-            "label": {
-                "id": "f3e6833c91626a1874c2e31e[label]",
-                "name": "Label",
-                "value": {
-                    "id": "f3e6833c91626a1874c2e31e[label]",
-                    "name": "Label",
-                    "value": ""
-                }
-            },
-            "source": "ea356c24027e569c3da2e8ca",
-            "target": "9b3ec94edc50168a57f635a0",
-            "attributes": {},
-            "type": "Generalisation"
-        },
         "7f55a9e6ec395fb5beacd9cf": {
             "label": {
                 "id": "7f55a9e6ec395fb5beacd9cf[label]",
@@ -1942,21 +2048,6 @@
             },
             "source": "adceafd43e4fe9be4893b24b",
             "target": "434d22bfbd67aea3deb72b53",
-            "attributes": {},
-            "type": "Uni-Dir-Association"
-        },
-        "11229cc98585c2fe1689f974": {
-            "label": {
-                "id": "11229cc98585c2fe1689f974[label]",
-                "name": "Label",
-                "value": {
-                    "id": "11229cc98585c2fe1689f974[label]",
-                    "name": "Label",
-                    "value": ""
-                }
-            },
-            "source": "adceafd43e4fe9be4893b24b",
-            "target": "bb5a6067093f1476b8306cf9",
             "attributes": {},
             "type": "Uni-Dir-Association"
         },
@@ -2272,6 +2363,36 @@
             },
             "source": "9b3ec94edc50168a57f635a0",
             "target": "215d234611fbf19bdb1e32be",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "fe4e071a2deebcc9ac5fba52": {
+            "label": {
+                "id": "fe4e071a2deebcc9ac5fba52[label]",
+                "name": "Label",
+                "value": {
+                    "id": "fe4e071a2deebcc9ac5fba52[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "ea356c24027e569c3da2e8ca",
+            "target": "a8e4cfbd2c13b505f3ba2d88",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "32a1b09eb4488bdfa61e5da0": {
+            "label": {
+                "id": "32a1b09eb4488bdfa61e5da0[label]",
+                "name": "Label",
+                "value": {
+                    "id": "32a1b09eb4488bdfa61e5da0[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "a8e4cfbd2c13b505f3ba2d88",
+            "target": "eccccc96192753b57d4d3844",
             "attributes": {},
             "type": "Bi-Dir-Association"
         }

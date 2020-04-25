@@ -96,12 +96,19 @@ class StaticApp extends PolymerElement {
         autoAppendWidget=true
       ></las2peer-frontend-statusbar>    
 
-      <div>
-        <p id="currentRoom">Current Space: Test</p>
-        <div id="yjsroomcontainer">
-          <paper-input id="yjsRoomInput" always-float-label label="Space"></paper-input>
-          <paper-button on-click="_onChangeButtonClicked">Enter</paper-button>
-          <div class="loader" id="roomEnterLoader"></div> 
+      <div style="display: flex;">
+        <div style="flex-grow: 1;">
+          <p id="currentRoom">Current Space: Test</p>
+          <div id="yjsroomcontainer">
+            <paper-input id="yjsRoomInput" always-float-label label="Space"></paper-input>
+            <paper-button on-click="_onChangeButtonClicked">Enter</paper-button>
+            <div class="loader" id="roomEnterLoader"></div> 
+          </div>
+        </div>
+        <div>
+          <a href="https://github.com/rwth-acis/CAE">
+            <img src="http://dbis.rwth-aachen.de/noracle/assets/las2peer.svg" alt="las2peer" style="width:420px;height:70px"/>
+          </a>
         </div>
       </div>
 

@@ -1718,6 +1718,24 @@
                     }
                 }
             }
+        },
+        "3921ff9264d96e3813dbd7f6": {
+            "label": {
+                "id": "3921ff9264d96e3813dbd7f6[label]",
+                "name": "Label",
+                "value": {
+                    "id": "3921ff9264d96e3813dbd7f6[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 4651.666666666667,
+            "top": 4356.666666666667,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16040,
+            "type": "Relation",
+            "attributes": {}
         }
     },
     "edges": {
@@ -1975,21 +1993,6 @@
             "target": "9b3ec94edc50168a57f635a0",
             "attributes": {},
             "type": "Generalisation"
-        },
-        "0645f74389ead1f65d894859": {
-            "label": {
-                "id": "0645f74389ead1f65d894859[label]",
-                "name": "Label",
-                "value": {
-                    "id": "0645f74389ead1f65d894859[label]",
-                    "name": "Label",
-                    "value": ""
-                }
-            },
-            "source": "725c6cd472a277b8a0e0ada0",
-            "target": "ea356c24027e569c3da2e8ca",
-            "attributes": {},
-            "type": "Uni-Dir-Association"
         },
         "c3d0f84b13075c1a95e42bab": {
             "label": {
@@ -2395,6 +2398,51 @@
             "target": "eccccc96192753b57d4d3844",
             "attributes": {},
             "type": "Bi-Dir-Association"
+        },
+        "dca05ca4daca7405bc881fc4": {
+            "label": {
+                "id": "dca05ca4daca7405bc881fc4[label]",
+                "name": "Label",
+                "value": {
+                    "id": "dca05ca4daca7405bc881fc4[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "3921ff9264d96e3813dbd7f6",
+            "target": "9b3ec94edc50168a57f635a0",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "53045faaab2d80477d821c5b": {
+            "label": {
+                "id": "53045faaab2d80477d821c5b[label]",
+                "name": "Label",
+                "value": {
+                    "id": "53045faaab2d80477d821c5b[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "3921ff9264d96e3813dbd7f6",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "ab48b8bac778373ced9090dd": {
+            "label": {
+                "id": "ab48b8bac778373ced9090dd[label]",
+                "name": "Label",
+                "value": {
+                    "id": "ab48b8bac778373ced9090dd[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "3921ff9264d96e3813dbd7f6",
+            "target": "a8bfc6e27437dfc8a571d6db",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
         }
     }
 }

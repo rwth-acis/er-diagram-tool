@@ -222,6 +222,14 @@ export default {
                     "targetTypes": [
                         "Relation"
                     ]
+                },
+                {
+                    "sourceTypes": [
+                        "Entity"
+                    ],
+                    "targetTypes": [
+                        "WeakRelation"
+                    ]
                 }
             ],
             "attributes": {
@@ -313,7 +321,6 @@ export default {
             "relations": [
                 {
                     "sourceTypes": [
-                        "Entity",
                         "WeakEntity"
                     ],
                     "targetTypes": [

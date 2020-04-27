@@ -217,7 +217,8 @@ export default {
             "relations": [
                 {
                     "sourceTypes": [
-                        "Entity"
+                        "Entity",
+                        "WeakEntity"
                     ],
                     "targetTypes": [
                         "Relation"

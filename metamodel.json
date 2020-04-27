@@ -1736,6 +1736,107 @@
             "zIndex": 16040,
             "type": "Relation",
             "attributes": {}
+        },
+        "e74529f93e111b5e732222ab": {
+            "label": {
+                "id": "e74529f93e111b5e732222ab[label]",
+                "name": "Label",
+                "value": {
+                    "id": "e74529f93e111b5e732222ab[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 3298.999999999999,
+            "top": 4425.999999999999,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16041,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "085ef30d15c32c4e89ca01ce": {
+            "label": {
+                "id": "085ef30d15c32c4e89ca01ce[label]",
+                "name": "Label",
+                "value": {
+                    "id": "085ef30d15c32c4e89ca01ce[label]",
+                    "name": "Label",
+                    "value": "MultipartAttribute"
+                }
+            },
+            "left": 3290.999999999999,
+            "top": 4573.999999999999,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16042,
+            "type": "Object",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueListAttribute",
+                    "list": {
+                        "90d82a395d83f1da0603fb97": {
+                            "id": "90d82a395d83f1da0603fb97",
+                            "name": "Attribute",
+                            "key": {
+                                "id": "90d82a395d83f1da0603fb97[key]",
+                                "name": "",
+                                "value": "Name"
+                            },
+                            "value": {
+                                "id": "90d82a395d83f1da0603fb97[value]",
+                                "name": "",
+                                "value": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "44535c6f3111d7a652a86251": {
+            "label": {
+                "id": "44535c6f3111d7a652a86251[label]",
+                "name": "Label",
+                "value": {
+                    "id": "44535c6f3111d7a652a86251[label]",
+                    "name": "Label",
+                    "value": "contains"
+                }
+            },
+            "left": 3316,
+            "top": 4831,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16043,
+            "type": "Relation",
+            "attributes": {}
+        },
+        "52062150e816239baee7fbae": {
+            "label": {
+                "id": "52062150e816239baee7fbae[label]",
+                "name": "Label",
+                "value": {
+                    "id": "52062150e816239baee7fbae[label]",
+                    "name": "Label",
+                    "value": "MultipartAttribute to Attribute"
+                }
+            },
+            "left": 3338.333333333334,
+            "top": 5068.333333333335,
+            "width": 150,
+            "height": 100,
+            "zIndex": 16044,
+            "type": "Relationship",
+            "attributes": {
+                "[attributes]": {
+                    "id": "[attributes]",
+                    "name": "Attributes",
+                    "type": "KeySelectionValueSelectionValueListAttribute",
+                    "list": {}
+                }
+            }
         }
     },
     "edges": {
@@ -2458,6 +2559,126 @@
             "target": "bb5a6067093f1476b8306cf9",
             "attributes": {},
             "type": "Uni-Dir-Association"
+        },
+        "b735e61fd558b746443a2f25": {
+            "label": {
+                "id": "b735e61fd558b746443a2f25[label]",
+                "name": "Label",
+                "value": {
+                    "id": "b735e61fd558b746443a2f25[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "725c6cd472a277b8a0e0ada0",
+            "target": "e74529f93e111b5e732222ab",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "3d94fbe53a37eef70355f44a": {
+            "label": {
+                "id": "3d94fbe53a37eef70355f44a[label]",
+                "name": "Label",
+                "value": {
+                    "id": "3d94fbe53a37eef70355f44a[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "adceafd43e4fe9be4893b24b",
+            "target": "e74529f93e111b5e732222ab",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "575f5ec71218a5f57dde7a34": {
+            "label": {
+                "id": "575f5ec71218a5f57dde7a34[label]",
+                "name": "Label",
+                "value": {
+                    "id": "575f5ec71218a5f57dde7a34[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "085ef30d15c32c4e89ca01ce",
+            "target": "2a012f1e2d17e198ef31c99c",
+            "attributes": {},
+            "type": "Bi-Dir-Association"
+        },
+        "a1f74739cf9f5be811395f34": {
+            "label": {
+                "id": "a1f74739cf9f5be811395f34[label]",
+                "name": "Label",
+                "value": {
+                    "id": "a1f74739cf9f5be811395f34[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "e74529f93e111b5e732222ab",
+            "target": "085ef30d15c32c4e89ca01ce",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "10fd4971dd0f3faea99206ee": {
+            "label": {
+                "id": "10fd4971dd0f3faea99206ee[label]",
+                "name": "Label",
+                "value": {
+                    "id": "10fd4971dd0f3faea99206ee[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "085ef30d15c32c4e89ca01ce",
+            "target": "44535c6f3111d7a652a86251",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "a358f6382c2834657d08ea16": {
+            "label": {
+                "id": "a358f6382c2834657d08ea16[label]",
+                "name": "Label",
+                "value": {
+                    "id": "a358f6382c2834657d08ea16[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "44535c6f3111d7a652a86251",
+            "target": "5c3a10bd1fe4e78f3ce8bdb1",
+            "attributes": {},
+            "type": "Uni-Dir-Association"
+        },
+        "0945a42608b39917e0f946a2": {
+            "label": {
+                "id": "0945a42608b39917e0f946a2[label]",
+                "name": "Label",
+                "value": {
+                    "id": "0945a42608b39917e0f946a2[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "44535c6f3111d7a652a86251",
+            "target": "52062150e816239baee7fbae",
+            "attributes": {},
+            "type": "Generalisation"
+        },
+        "c18147c07c2000ba78daf3e4": {
+            "label": {
+                "id": "c18147c07c2000ba78daf3e4[label]",
+                "name": "Label",
+                "value": {
+                    "id": "c18147c07c2000ba78daf3e4[label]",
+                    "name": "Label",
+                    "value": ""
+                }
+            },
+            "source": "e74529f93e111b5e732222ab",
+            "target": "b7827b7430f0345901702c9a",
+            "attributes": {},
+            "type": "Generalisation"
         }
     }
 }

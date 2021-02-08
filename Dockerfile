@@ -19,7 +19,7 @@ WORKDIR /usr/src/app
 RUN git clone https://github.com/rwth-acis/syncmeta.git
 
 WORKDIR /usr/src/app/syncmeta
-RUN git checkout master && cd widgets && rm package-lock.json && npm install && bower install --allow-root
+RUN git checkout master && cd widgets && rm package-lock.json && npm install
 
 WORKDIR /usr/src/app
 COPY docker/docker-entrypoint.sh docker-entrypoint.sh
